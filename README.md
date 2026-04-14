@@ -24,7 +24,6 @@ This project was originally created earlier and has been recently refactored to 
 - OpenWeatherMap API
 
 ---
-
 ## 📂 Project Structure
 
 weather-app/
@@ -34,8 +33,6 @@ weather-app/
 ├── js/
 │ └── app.js
 ├── README.md
-
----
 
 ## ▶️ How to Run Locally
 1. Clone the repository
