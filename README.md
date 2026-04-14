@@ -48,24 +48,22 @@ This project uses OpenWeatherMap API.
 1. Get your free API key from: https://openweathermap.org/
 2. Replace in `app.js`:
 
-```javascript
-const apiKey = "YOUR_API_KEY";```
+javascript
+`:const apiKey = "YOUR_API_KEY";`
 
-## 📌 Future Improvements
-- Add loading spinner
-- Improve error handling UI
-- Enhance mobile responsiveness
-- Add dynamic weather icons
 
----
+ ##📌 Future Improvements
+Add loading spinner
+Improve error handling UI
+Enhance mobile responsiveness
+Add dynamic weather icons
 
-## 💡 Learnings
-- Converted React-based project to Vanilla JavaScript
-- Improved project structure and readability
-- Gained hands-on experience with API integration
-
----
+##💡 Learnings
+Converted React-based project to Vanilla JavaScript
+Improved project structure and readability
+Gained hands-on experience with API integration
 
 ## 📍 Author
-**Gaurav Sharma**  
+
+Gaurav Sharma
 Java Backend Developer | Spring Boot | Microservices
